@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3045/sitemap_style.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3045</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3045/business-case</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3045/safety-analysis</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3045/maintenance-analysis</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3045/trips-routes-analysis</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3045/confidence-interval</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3045/hypothesis-testing</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3045/data-loader</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3045/readme</loc>
+  </url>
+</urlset>
